@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://img.itch.zone/aW1nLzE4OTk5ODAyLnBuZw==/original/BKirkR.png" alt="Archives Videogames Studio Banner" width="100%">
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy Michael Reyes</h1>
 
 <p align="center">
