@@ -21,7 +21,6 @@ Actualmente desarrollo videojuegos y herramientas multimedia bajo mi estudio **A
 #### 🕹️ Desarrollo de videojuegos
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 #### 💻 Backend y bases de datos
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
