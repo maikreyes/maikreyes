@@ -36,9 +36,7 @@ Actualmente desarrollo videojuegos y herramientas multimedia bajo mi estudio **A
 
 ### 🩸 Proyectos destacados
 
-- **[BloodForge](#)** — Juego 3D de ciencia ficción con chat de voz y narrativa dinámica.  
-- **[Discord Meeting Bot](#)** — Bot para automatizar actas de reuniones y sincronizar con Google Drive.  
-- **[Compose PocketBase App](#)** — Aplicación móvil con Jetpack Compose y backend en PocketBase.
+- **[BloodForge](https://github.com/Archives-Videogames-Studio/BloodForge)** — Juego 3D de ciencia ficción con chat de voz y narrativa dinámica.  
 
 ---
 
