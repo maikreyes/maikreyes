@@ -52,10 +52,10 @@ Actualmente desarrollo videojuegos y herramientas multimedia bajo mi estudio **A
 
 ### 💬 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<!-- LinkedIn -->)
-[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](<!-- Itch.io -->)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](<!-- Portfolio -->)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<!-- Correo -->)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelestivenreyesescobar/)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]((https://maikreyes.itch.io))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)(https://michaelesreyes.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michaelesreyes.14@gmail.com)
 
 ---
 
