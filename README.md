@@ -36,7 +36,8 @@ Actualmente desarrollo videojuegos y herramientas multimedia bajo mi estudio **A
 
 ### 🩸 Proyectos destacados
 
-- **[BloodForge](https://github.com/Archives-Videogames-Studio/BloodForge)** — Juego 3D de ciencia ficción con chat de voz y narrativa dinámica.  
+- **[BloodForge](https://github.com/Archives-Videogames-Studio/BloodForge)** — Juego 3D de ciencia ficción con chat de voz y narrativa dinámica.
+- **[Triggerito](https://archives.codes)** - Webhook creado para conectar Github con Discord
 
 ---
 
