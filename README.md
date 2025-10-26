@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<!-- Agrega aquí el enlace de tu banner -->" alt="Archives Videogames Studio Banner" width="100%">
+  <img src="https://img.itch.zone/aW1nLzE4OTk5ODAyLnBuZw==/original/BKirkR.png" alt="Archives Videogames Studio Banner" width="100%">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Michael Reyes</h1>
