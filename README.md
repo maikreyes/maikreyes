@@ -36,7 +36,7 @@ Actualmente desarrollo videojuegos y herramientas multimedia bajo mi estudio **A
 
 ### 🩸 Proyectos destacados
 
-- **[BloodForge](https://github.com/Archives-Videogames-Studio/BloodForge)** — Juego 3D de ciencia ficción con chat de voz y narrativa dinámica.
+- **[City Builders](https://archivesstudio.itch.io/city-builders)** — Mi proyecto de grado orientado a la preservación cultural tangible del pueblo de Bugalagrande
 - **[Triggerito](https://archives.codes)** - Webhook creado para conectar Github con Discord
 
 ---
